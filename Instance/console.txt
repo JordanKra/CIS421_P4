@@ -1,5 +1,5 @@
-1,1994-12-03,299,Playstation 1
-2,2000-03-04,300,Playstation 2
-3,2006-11-11,500,Playstation 3
-4,2013-11-15,400,Playstation 4
-5,2020-11-12,500,Playstation 5
+1,1994-12-03,299,Playstation 1,1
+2,2000-03-04,300,Playstation 2,0
+3,2006-11-11,500,Playstation 3,3
+4,2013-11-15,400,Playstation 4,6
+5,2020-11-12,500,Playstation 5,2
